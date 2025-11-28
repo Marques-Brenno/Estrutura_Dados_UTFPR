@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1761930842 source:c:\users\brenno marques\documents\script-c\listac\lista3ex4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

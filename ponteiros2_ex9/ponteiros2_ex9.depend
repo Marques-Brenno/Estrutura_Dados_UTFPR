@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1758514444 source:c:\users\brenno marques\documents\script-c\ponteiros2_ex9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

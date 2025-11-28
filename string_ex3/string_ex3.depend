@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1758439669 source:c:\users\brenno marques\documents\script-c\string_ex3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
