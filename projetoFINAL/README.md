@@ -47,7 +47,3 @@ Cada módulo possui operações dedicadas para inserir, remover, buscar e atuali
 
 ---
 
-## 📂 Arquivos de Entrada
-
-Os seguintes arquivos devem estar na mesma pasta do executável:
-
