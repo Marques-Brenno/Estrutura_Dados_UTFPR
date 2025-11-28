@@ -124,7 +124,7 @@ Implementação completa integrando todos os conteúdos:
 - Modularização  
 - Boas práticas de código  
 
-O código final está no diretório `projeto-final/`.
+O código final está no diretório `projetoFINAL/`.
 
 ---
 
